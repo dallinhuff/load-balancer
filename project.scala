@@ -1,4 +1,4 @@
-//> using scala 3.4.0
+//> using scala 3.4
 
 //> using dep org.http4s::http4s-ember-server:0.23.26
 //> using dep org.http4s::http4s-ember-client:0.23.26
